@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "FoodieHub - Order Your Favorite Food",
   description: "A role-based food ordering application with regional access control",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
